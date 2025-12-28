@@ -8,13 +8,13 @@
 
 ## Developed By
 
-- [Yash Dhrangdhariya](https://github.com/dhyash-simform)
+- [Kamran khan](https://github.com/kamrankhan361k)
 
 ## License
 
 ```text
 MIT License
-Copyright (c) 2023 Yash Dhrangdhariya
+Copyright (c) 2023 kamran khan
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
